@@ -1,0 +1,53 @@
+.intro-table-hover.game1 {
+	background-image: url('../img/ludo.png');
+}
+.intro-table-hover.game2 {
+	background-image: url('../img/tpg.png');
+}
+.intro-table-hover.game3 {
+	background-image: url('../img/coppit.png');
+}
+.intro-table-hover.game4{
+	background-image: url('../img/ttt.png');
+}
+.intro-table-hover.game5 {
+	background-image: url('../img/cw.png');
+}
+.intro-table-hover.game6 {
+	background-image: url('../img/chess.png');
+}
+.intro-table-hover.game7 {
+	background-image: url('../img/snake.png');
+}
+.intro-table-hover.game8 {
+	background-image: url('../img/sudoku.png');
+}
+.padding-0{
+padding:0px !important;
+}
+footer{
+	padding:0px;
+}
+footer .bottom-footer {
+    margin-top: 30px;
+}
+footer .short-footer li a {
+    font-size: 16px !important;
+    color: #fff;
+	text-align:center;
+}
+.login_error{
+	color:#ffffff;
+	background:red;
+	padding:5px;
+}
+.login_success,.register_success,.pass_done{
+	color:#ffffff;
+	background:green;
+	padding:5px;
+}
+.register_fillall,.register_email,.register_pass,.register_tick,.duplicate_msg,.register_user,.pass_notmatch,.incorrect_msg{
+	color:#ffffff;
+	background:red;
+	padding:5px;
+}
